@@ -1,0 +1,27 @@
+wilson-disease-datamining/
+├── data/
+│   ├── raw/               # Raw multi-omics datasets (e.g., transcriptomics, proteomics)
+│   └── processed/         # Cleaned and normalized datasets
+├── notebooks/
+│   ├── 01_eda.ipynb       # Exploratory Data Analysis
+│   ├── 02_preprocessing.ipynb
+│   ├── 03_feature_selection.ipynb
+│   ├── 04_modeling.ipynb
+│   └── 05_evaluation.ipynb
+├── scripts/
+│   ├── preprocess.py
+│   ├── feature_selector.py
+│   └── train_model.py
+├── results/
+│   ├── plots/
+│   └── metrics/
+├── reports/
+│   ├── milestone3_progress_report.pdf
+│   └── final_report_draft.md
+├── references/
+│   ├── wilson_literature_review.pdf
+│   └── dataset_sources.md
+├── environment.yml
+├── README.md
+├── LICENSE
+└── .gitignore
