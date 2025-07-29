@@ -39,13 +39,15 @@ Potential sources include:
 
 Wilson's Disease is a rare genetic disorder that causes copper accumulation in tissues. Identifying biomarkers using omics data can help in early diagnosis and understanding disease progression.
 
-## 📜 License
 
-MIT License
 
 ## 👩‍🔬 Contributor
 
 **Shaveta Sohpal**  
+**Kajal**  
+**Tejal**  
+**Yash**  
+
 Master of Engineering in Applied Data Science  
 University of Victoria, Canada  
 Project under CSC 503: Data Mining
